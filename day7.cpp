@@ -62,7 +62,6 @@ int main(){
     Node n3={12,NULL,NULL};
     Node n2={5,&n4,&n5};
     Node n1={10,&n2,&n3};
-
     vector<int> v;
     decision(&n1,22,v);
     return 0;
