@@ -1,14 +1,13 @@
-#include <iostream>
-#include <stdlib.h>
-
-using namespace std;
-
 //
 // Created by sanfen on 16/12/12.
 //
 
 //题目: 求整数的2进制表示中1的个数
 
+#include <iostream>
+#include <stdlib.h>
+
+using namespace std;
 
 //整数 右移 相与
 int function1(int i) {

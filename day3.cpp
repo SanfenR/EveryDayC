@@ -2,17 +2,17 @@
 // Created by sanfen on 16/12/14.
 //
 
-#include <iostream>
-#include <stdlib.h>
-
-using namespace std;
-
 
 // 假设链表......---A--B--C--D....，要删除B。一般的做法是遍历链表并记录前驱节点，
 // 修改指针，时间为O(n)。删除节点的实质为更改后驱指针指向。
 // 这里，复制C的内容至B(此时B，C同时指向D)，删除节点C，即达到间接删除节点B的目的。
 // 倘若B是链尾节点。则需要线性遍历寻找前驱节点。
 // 以上思路，时间复杂度为O(1)。
+
+#include <iostream>
+#include <stdlib.h>
+
+using namespace std;
 
 struct ListNode {
     int m_nKey;
