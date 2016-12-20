@@ -3,6 +3,6 @@ project(EveryDayC)
 
 set(CMAKE_CXX_STANDARD 11)
 
-set(SOURCE_FILES day4.cpp)
+set(SOURCE_FILES day5.cpp)
 
 add_executable(EveryDayC ${SOURCE_FILES})
