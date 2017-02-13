@@ -2,7 +2,7 @@
 // Created by sanfen on 2017/1/20.
 //
 
-#include"iostream"
+#include day.h
 
 void printMax(char *number, int i, const int &n);
 
@@ -45,6 +45,5 @@ void printMax(char *number, const int index, const int size) {
 
 int main() {
     print(4);
-
     return 0;
 }

@@ -7,10 +7,8 @@
 //----->fun1 start
 //使用函数指针 递归加法
 
-#include <iostream>
-#include <stdlib.h>
+#include "day.h"
 
-using namespace std;
 
 typedef int (*fun)(int);
 
