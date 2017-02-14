@@ -37,6 +37,21 @@ ListNode * mergeList(ListNode* list1, ListNode* list2){
 
 }
 
+ListNode * mergeList2(ListNode* list1, ListNode* list2){
+    if(!list1) return list2;
+    if(!list2) return list1;
+    ListNode* head;
+    if(list1->value < list2->value){
+        head = list1;
+        head->next = mergeList2(list1->next, list2);
+    }
+    else{
+        head = list2;
+        head->next = mergeList2(list1,list2->next);
+    }
+    return head;
+}
+
 
 int main() {
     ListNode* list1 = new ListNode();
@@ -65,11 +80,18 @@ int main() {
     node23->value = 7;
 
 
-    ListNode* p =  mergeList(list1, list2);
+//    ListNode* p =  mergeList(list1, list2);
+//
+//    while(p) {
+//        cout << p->value << endl;
+//        p = p->next;
+//    }
 
-    while(p) {
-        cout << p->value << endl;
-        p = p->next;
+    ListNode* b =  mergeList2(list1, list2);
+
+    while(b) {
+        cout << b->value << endl;
+        b = b->next;
     }
     return 0;
 }
