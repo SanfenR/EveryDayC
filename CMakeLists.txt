@@ -3,6 +3,6 @@ project(EveryDayC)
 
 set(CMAKE_CXX_STANDARD 11)
 
-set(SOURCE_FILES HDU1002.cpp)
+set(SOURCE_FILES HDU1004.cpp)
 
 add_executable(EveryDayC ${SOURCE_FILES})
