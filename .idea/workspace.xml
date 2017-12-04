@@ -13,7 +13,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4e68369c-8136-4eb7-a803-41cd4494ec1b" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -451,6 +450,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="一些修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="一些修改" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
