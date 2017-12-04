@@ -43,6 +43,7 @@ int main() {
             }
         }
         cout << more << endl;
+        delete v, m;
     }
     return 0;
 }
