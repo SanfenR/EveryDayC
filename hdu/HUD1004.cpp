@@ -24,26 +24,28 @@ void max(int n, vector<string> &v, map<string, int> &m) {
 }
 
 int main() {
-    int n = 0;
-    while (cin >> n) {
-        vector<string> v(n);
-        for (int i = 0; i < n; ++i) {
-            cin >> v[i];
-        }
+    int n;
+    while (cin >>n && n != 0) {
         map<string, int> m;
-        max(n, v, m);
-
-        string more = v[0];
+        string sca;
+        for (int i = 0; i < n; ++i) {
+            cin >> sca;
+            auto mc = m.find(sca);
+            if(mc->second == 0) {
+                m[sca] = 1;
+            } else {
+                m[sca] ++;
+            }
+        }
         int index = 1;
-
-        for (auto &i : m) {
-            if(i.second > index) {
-                more = i.first;
-                index = i.second;
+        string more = m.begin()->first;
+        for(map<string,int >::iterator iter = m.begin(); iter != m.end(); iter.operator++()) {
+            if(iter->second > index) {
+                more = iter->first;
+                index = iter->second;
             }
         }
         cout << more << endl;
-        delete v, m;
+        m.clear();
     }
-    return 0;
 }
