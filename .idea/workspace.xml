@@ -1,18 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" buildAllGenerated="true">
     <generated>
       <config projectName="EveryDayC" targetName="EveryDayC" />
     </generated>
   </component>
-  <component name="CMakeSettings">
+  <component name="CMakeSettings" AUTO_RELOAD="true">
     <configurations>
-      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" GENERATION_DIR="$PROJECT_DIR$/cmake-build-debug" />
+<<<<<<< HEAD
+      <configuration CONFIG_NAME="Debug" GENERATION_DIR="$PROJECT_DIR$/cmake-build-debug" />
     </configurations>
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="4e68369c-8136-4eb7-a803-41cd4494ec1b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+=======
+    <list default="true" id="4e68369c-8136-4eb7-a803-41cd4494ec1b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
+=======
+      <configuration CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ab1442cd-a71d-49f7-a779-e1bec50a4329" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hdu/HUD1004.cpp" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/C++.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vim.md" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HDU1000.cpp" afterPath="$PROJECT_DIR$/hdu/HDU1000.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HDU1001.cpp" afterPath="$PROJECT_DIR$/hdu/HDU1001.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HDU1002.cpp" afterPath="$PROJECT_DIR$/hdu/HDU1002.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/HDU1003.cpp" afterPath="$PROJECT_DIR$/hdu/HDU1003.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/day.h" afterPath="$PROJECT_DIR$/day/day.h" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/day1.cpp" afterPath="$PROJECT_DIR$/day/day1.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/day10.cpp" afterPath="$PROJECT_DIR$/day/day10.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/day11.cpp" afterPath="$PROJECT_DIR$/day/day11.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/day2.cpp" afterPath="$PROJECT_DIR$/day/day2.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/day3.cpp" afterPath="$PROJECT_DIR$/day/day3.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/day4.cpp" afterPath="$PROJECT_DIR$/day/day4.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/day5.cpp" afterPath="$PROJECT_DIR$/day/day5.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/day6.cpp" afterPath="$PROJECT_DIR$/day/day6.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/day7.cpp" afterPath="$PROJECT_DIR$/day/day7.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/day8.cpp" afterPath="$PROJECT_DIR$/day/day8.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/day9.cpp" afterPath="$PROJECT_DIR$/day/day9.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/main.cpp" afterPath="$PROJECT_DIR$/day/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+>>>>>>> 51f1c3577725c9721e5ad1d409b3cd27b1e30cb7
+    </list>
+>>>>>>> ea954decd55e424e40ff4c84942e8258062d9a59
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,16 +63,17 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="C++" />
+    <favorites_list name="EveryDayC" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="day7.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day/day7.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
+            <state relative-caret-position="408">
               <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding />
             </state>
@@ -42,7 +83,7 @@
       <file leaf-file-name="day5.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day/day5.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
+            <state relative-caret-position="782">
               <caret line="46" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
               <folding />
             </state>
@@ -52,7 +93,7 @@
       <file leaf-file-name="day4.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day/day4.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
+            <state relative-caret-position="357">
               <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding />
             </state>
@@ -62,39 +103,46 @@
       <file leaf-file-name="day3.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day/day3.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1014">
+            <state relative-caret-position="1207">
               <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HUD1004.cpp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HUD1004.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hdu/HUD1004.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="16" column="31" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="47" selection-end-column="1" />
-              <folding>
-                <element signature="e#93#112#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="25" lean-forward="false" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+            <state relative-caret-position="28">
+              <caret line="16" column="31" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="47" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="34" lean-forward="false" selection-start-line="0" selection-start-column="34" selection-end-line="0" selection-end-column="34" />
+=======
+    <leaf>
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+>>>>>>> 51f1c3577725c9721e5ad1d409b3cd27b1e30cb7
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
       <file leaf-file-name="day9.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day/day9.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
+            <state relative-caret-position="238">
               <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
@@ -104,7 +152,7 @@
       <file leaf-file-name="day10.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day/day10.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="542">
+            <state relative-caret-position="680">
               <caret line="40" column="1" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="40" selection-end-column="1" />
               <folding />
             </state>
@@ -114,18 +162,30 @@
       <file leaf-file-name="day11.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day/day11.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="795">
+            <state relative-caret-position="901">
               <caret line="53" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+=======
+      <file leaf-file-name="HUD1004.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hdu/HUD1004.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="537">
+              <caret line="45" column="18" lean-forward="false" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+>>>>>>> 51f1c3577725c9721e5ad1d409b3cd27b1e30cb7
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day/main.cpp">
+      <file leaf-file-name="HDU1004.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HDU1004.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="369">
+<<<<<<< HEAD
+            <state relative-caret-position="493">
               <caret line="29" column="1" lean-forward="false" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+=======
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> 51f1c3577725c9721e5ad1d409b3cd27b1e30cb7
               <folding />
             </state>
           </provider>
@@ -133,17 +193,13 @@
       </file>
     </leaf>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>draw</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/vim.md" />
         <option value="$PROJECT_DIR$/main.cpp" />
         <option value="$PROJECT_DIR$/day4.cpp" />
@@ -163,8 +219,10 @@
         <option value="$PROJECT_DIR$/HDU1001.cpp" />
         <option value="$PROJECT_DIR$/HDU1002.cpp" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+=======
+>>>>>>> 51f1c3577725c9721e5ad1d409b3cd27b1e30cb7
         <option value="$PROJECT_DIR$/hdu/HUD1004.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
       </list>
     </option>
   </component>
@@ -174,12 +232,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="73" />
+    <option name="x" value="191" />
     <option name="y" value="23" />
-    <option name="width" value="1097" />
-    <option name="height" value="755" />
+    <option name="width" value="1089" />
+    <option name="height" value="777" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -198,219 +255,75 @@
     <panes>
       <pane id="ProjectPane">
         <subPane>
-          <expand>
-            <path>
-              <item name="EveryDayC" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
-              <item name="EveryDayC" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EveryDayC" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
-              <item name="EveryDayC" type="462c0819:PsiDirectoryNode" />
-              <item name="hdu" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EveryDayC" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EveryDayC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EveryDayC" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EveryDayC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hdu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
-    <property name="js.eslint.eslintPackage" value="" />
-    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/sanfen/dev/github/C++/vim.md" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/day" />
       <recent name="$PROJECT_DIR$/hdu" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager" selected="Application.EveryDayC">
+<<<<<<< HEAD
     <configuration default="true" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EveryDayC" TARGET_NAME="chapter01" CONFIG_NAME="Debug" TEST_MODE="SUITE_TEST">
       <envs />
-    </configuration>
-    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EveryDayC" RUN_TARGET_NAME="EveryDayC" EXPLICIT_BUILD_TARGET_NAME="all">
-      <envs />
-    </configuration>
-    <configuration name="EveryDayC" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EveryDayC" TARGET_NAME="EveryDayC" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EveryDayC" RUN_TARGET_NAME="EveryDayC">
-      <envs />
+      <method />
     </configuration>
     <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EveryDayC" TARGET_NAME="chapter01" CONFIG_NAME="Debug">
       <envs />
+      <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
       <config-file value="" />
       <node-interpreter value="project" />
+=======
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EveryDayC" TARGET_NAME="EveryDayC" CONFIG_NAME="Debug">
+>>>>>>> 51f1c3577725c9721e5ad1d409b3cd27b1e30cb7
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="C++" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="C++" />
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
+    <configuration default="false" name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run-script" />
-      <scripts />
-      <node-interpreter value="project" />
+    <configuration default="false" name="EveryDayC" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EveryDayC" TARGET_NAME="EveryDayC" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EveryDayC" RUN_TARGET_NAME="EveryDayC">
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="tests" factoryName="Attests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
+    <configuration default="false" name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EveryDayC" RUN_TARGET_NAME="EveryDayC" EXPLICIT_BUILD_TARGET_NAME="all">
       <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="C++" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
+    <configuration default="false" name="EveryDayC" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EveryDayC" TARGET_NAME="EveryDayC" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EveryDayC" RUN_TARGET_NAME="EveryDayC">
       <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="C++" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Nosetests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="C++" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Unittests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="C++" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="py.test">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="C++" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="testToRun" value="" />
-      <option name="keywords" value="" />
-      <option name="params" value="" />
-      <option name="USE_PARAM" value="false" />
-      <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
     <list size="2">
@@ -423,10 +336,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4e68369c-8136-4eb7-a803-41cd4494ec1b" name="Default" comment="" />
-      <created>1480906142276</created>
+      <changelist id="ab1442cd-a71d-49f7-a779-e1bec50a4329" name="Default" comment="" />
+      <created>1512397338941</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
+<<<<<<< HEAD
       <updated>1480906142276</updated>
       <workItem from="1480906147516" duration="7901000" />
       <workItem from="1480920327267" duration="2003000" />
@@ -454,11 +368,17 @@
       <workItem from="1486991029665" duration="3332000" />
       <workItem from="1487072925774" duration="1408000" />
       <workItem from="1512134245544" duration="5109000" />
+      <workItem from="1512398703734" duration="60000" />
+=======
+      <updated>1512397338941</updated>
+      <workItem from="1512397340383" duration="220000" />
+>>>>>>> 51f1c3577725c9721e5ad1d409b3cd27b1e30cb7
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71684000" />
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="71744000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -470,27 +390,61 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="73" y="23" width="1097" height="755" extended-state="0" />
+=======
+    <frame x="191" y="23" width="1089" height="777" extended-state="0" />
+    <editor active="false" />
+>>>>>>> ea954decd55e424e40ff4c84942e8258062d9a59
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20817845" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21107927" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29242423" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28368795" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28321168" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30454546" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+=======
+>>>>>>> ea954decd55e424e40ff4c84942e8258062d9a59
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22121212" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27878788" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3708029" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29242423" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3708029" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30454546" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+=======
+    <option name="totallyTimeSpent" value="220000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="191" y="23" width="1089" height="777" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24928367" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41459855" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329927" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329927" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+>>>>>>> 51f1c3577725c9721e5ad1d409b3cd27b1e30cb7
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27878788" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -499,26 +453,12 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="一些修改" />
-    <MESSAGE value="修改文件目录" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改文件目录" />
-  </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="55" />
-    </breakpoint-manager>
-    <watches-manager>
-      <configuration name="CMakeRunConfiguration">
-        <watch expression="atoi(&amp;a[1])" language="ObjectiveC" />
-        <watch expression="atoi(&amp;a)" language="ObjectiveC" />
-        <watch expression="atoi(a)" language="ObjectiveC" />
-        <watch expression="convertToString(1)" language="ObjectiveC" />
-        <watch expression="convertToString(123)" language="ObjectiveC" />
-      </configuration>
-    </watches-manager>
+    <breakpoint-manager />
+    <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -637,9 +577,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="16" selection-end-column="1" />
-          <folding>
-            <element signature="e#92#111#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -647,39 +584,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="9" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/bin/cmake/share/cmake-3.9/Modules/CMakeTestCCompiler.cmake">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/bin/cmake/share/cmake-3.9/Modules/CMakeTestCCompiler.cmake" />
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vim.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="60" column="9" lean-forward="true" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/vim.md" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -695,9 +615,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="7" selection-end-column="20" />
-          <folding>
-            <element signature="e#91#110#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -705,7 +622,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="840">
           <caret line="57" column="33" lean-forward="false" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -713,7 +629,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-843">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -721,13 +636,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="36" column="18" lean-forward="false" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day/day10.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="542">
+        <state relative-caret-position="680">
           <caret line="40" column="1" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="40" selection-end-column="1" />
           <folding />
         </state>
@@ -735,7 +649,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day/day11.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
+        <state relative-caret-position="901">
           <caret line="53" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
           <folding />
         </state>
@@ -743,7 +657,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
+        <state relative-caret-position="493">
           <caret line="29" column="1" lean-forward="false" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
           <folding />
         </state>
@@ -751,7 +665,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day/day9.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
+        <state relative-caret-position="238">
           <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
@@ -759,7 +673,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day/day7.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
+        <state relative-caret-position="408">
           <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding />
         </state>
@@ -767,7 +681,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day/day5.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
+        <state relative-caret-position="782">
           <caret line="46" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
           <folding />
         </state>
@@ -775,37 +689,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day/day4.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
+        <state relative-caret-position="357">
           <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/HDU1004.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> 51f1c3577725c9721e5ad1d409b3cd27b1e30cb7
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/day/day3.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1014">
+        <state relative-caret-position="1207">
           <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+=======
+    <entry file="file://$PROJECT_DIR$/hdu/HUD1004.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="25" lean-forward="false" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        <state relative-caret-position="537">
+          <caret line="45" column="18" lean-forward="false" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+>>>>>>> 51f1c3577725c9721e5ad1d409b3cd27b1e30cb7
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hdu/HUD1004.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="16" column="31" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="47" selection-end-column="1" />
-          <folding>
-            <element signature="e#93#112#0" expanded="true" />
-          </folding>
+<<<<<<< HEAD
+        <state relative-caret-position="28">
+          <caret line="16" column="31" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="47" selection-end-column="1" />
+=======
+        <state relative-caret-position="85">
+          <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+>>>>>>> 51f1c3577725c9721e5ad1d409b3cd27b1e30cb7
+          <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="34" lean-forward="false" selection-start-line="0" selection-start-column="34" selection-end-line="0" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+=======
+>>>>>>> 51f1c3577725c9721e5ad1d409b3cd27b1e30cb7
   </component>
 </project>
